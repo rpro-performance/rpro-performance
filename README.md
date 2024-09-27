@@ -7,7 +7,7 @@ Javascript, HTML, CSS...
 ## Outras seções comuns em perfis do GitHub
 👩‍💻 Trabalho atualmente como autonomo
 
-🧠 Estou aprendendo Java script/ HTML /CSS / NOTEJS
+🧠 Estou aprendendo JavaScript/ HTML /CSS / NODEJS
 
 👯‍♀️ Procuro colaborar em desenvolvimento web e app
 
