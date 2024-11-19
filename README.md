@@ -7,8 +7,6 @@ Javascript, HTML, CSS...
 ## Outras seções comuns em perfis do GitHub
 👩‍💻 Trabalho atualmente como autonomo
 
-🧠 Estou aprendendo JavaScript/ HTML /CSS / NODEJS
-
 👯‍♀️ Procuro colaborar em desenvolvimento web e app
 
 📫 Pode entrar em contato comigo (66)9 99213-4444
